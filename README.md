@@ -1,5 +1,8 @@
 # 📊 Análisis Integral y Predictivo de Estimaciones Agrícolas en Argentina
 
+![AgriPredict-Intelligence](assets/heroArgentina.png)
+
+
 Proyecto de Business Intelligence y Ciencia de Datos orientado al análisis, diagnóstico y predicción del rendimiento agrícola en Argentina, integrando ETL, Machine Learning y visualización avanzada en Power BI.
 
 ---
